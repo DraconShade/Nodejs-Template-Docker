@@ -1,0 +1,12 @@
+services:
+  nodejs:
+    image: node:latest
+    container_name: nodejs
+    working_dir: /app
+    command: sh
+    tty: true
+    stdin_open: true
+    ports:
+    - "0.0.0.0:${NODE_PORT}:3000"
+    volumes:
+      - ./app:/app
