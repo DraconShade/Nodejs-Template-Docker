@@ -1,9 +1,9 @@
-# Nodejs-Template-Docker 🐳
-
 ![Docker](https://img.shields.io/badge/docker-ready-blue)
 ![Node.js](https://img.shields.io/badge/node.js-ready-green)
 ![npm](https://img.shields.io/badge/npm-ready-red)
 ![npx](https://img.shields.io/badge/npx-ready-black)
+
+# Nodejs-Template-Docker 🐳
 
 Plantilla para iniciar un entorno **Node.js** con **npx** y **npm** usando **Docker**.  
 Este proyecto facilita levantar un contenedor Node.js listo para desarrollo y pruebas.
