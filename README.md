@@ -3,6 +3,10 @@
 ![npm](https://img.shields.io/badge/npm-ready-red)
 ![npx](https://img.shields.io/badge/npx-ready-black)
 
+# NO LE FUNCIONA EL HOT-RELOAD MOTIVADO A QUE DOCKER NO FUE DISEÑADO PARA
+# ESTE ESTILO DE TRABAJO SOLO SE PUEDE APLICAR PARA RENDERIZADO MANUAL
+
+
 # Nodejs-Template-Docker 🐳
 
 Plantilla para iniciar un entorno **Node.js** con **npx** y **npm** usando **Docker**.  
